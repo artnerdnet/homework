@@ -13,7 +13,6 @@
   "dependencies": {
     "emailjs-com": "^2.6.4",
     "next": "10.2.3",
-    "next-on-netlify": "^3.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "^5.3.0"
