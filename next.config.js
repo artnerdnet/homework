@@ -1,4 +1,5 @@
 module.exports = {
+  target: "serverless",
   env: {
     GOOGLE_OAUTH_CLIENT_ID: process.env.GOOGLE_OAUTH_CLIENT_ID,
     NEXT_PUBLIC_EMAIL_SERVICE:process.env.NEXT_PUBLIC_EMAIL_SERVICE,
